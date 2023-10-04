@@ -20,15 +20,33 @@ input {
 img {
     border-radius: 50%;
     width: 60px;
+    margin-bottom: 40px;
 }
 .img-logo {
     display: flex;
     justify-content: space-between;
     
 }
-.text {
+.text  {
     display: flex;
     justify-content: space-between;
+}
+
+.text p {
     color: #fff;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+
+}
+h4{
+    color: green;
+
+}
+p {
+    color: rgba(108, 180, 1, 0.75);
+    text-align: end;
+    margin-top: -40px;
 }
 
