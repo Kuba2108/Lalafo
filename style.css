@@ -60,4 +60,15 @@ p {
     text-align: end;
     margin-top: -40px;
 }
+.card{
+    width: 250px;
+    height: 300px;
+    color: cornsilk;
+    border: 2px solid gray;
+}
+ .card img{
+    width: 250px;
+    height: 250px;
+    
 
+}
