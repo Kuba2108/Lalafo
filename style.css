@@ -51,6 +51,20 @@ input {
 }
     
 
+.img-search {
+   width: 30px;
+   height: 30px;
+   margin-top: 20px;
+   margin-left: -50px;
+   
+    
+}
+.search {
+    display: flex;
+    align-items: center;
+
+}
+
 h4{
     color: green;
 
