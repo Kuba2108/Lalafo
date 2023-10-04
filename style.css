@@ -1,3 +1,6 @@
-body {
-    background-color: blueviolet;
+p {
+    color: rgba(108, 180, 1, 0.75);
+    text-align: end;
+    margin-top: -40px;
 }
+
